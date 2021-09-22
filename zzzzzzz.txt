@@ -1,0 +1,11 @@
+Feruza ustoz 1-si :
+https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/3af85582-af00-454e-9975-fb38ed9c5a98.pdf
+
+Feruza ustoz 2-si :
+https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/6aeb61c3-b42a-42fb-8601-99a4db2c3dd2.pdf
+
+Muhammadazim 1-si :
+https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/b78bd5eb-9458-4d6d-b2d7-221a4a5a459e.pdf
+
+Muhammadazim 2-si :
+https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/4112734b-6a34-40ab-a9ff-e6a91a24bda8.pdf
